@@ -6,6 +6,7 @@ function functionName(parameters){
 var returnedValue = functionName(parameters value); 
 */
 
+
 function getAverege(assignment1, assignment2, assignment3){
     const total = assignment1 + assignment2 + assignment3;
     const averege = total / 3;
